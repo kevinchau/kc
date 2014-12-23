@@ -11,4 +11,4 @@ custom_paginate: 6
 
 # Build settings
 markdown: kramdown
-permalink: pretty
+permalink: none
