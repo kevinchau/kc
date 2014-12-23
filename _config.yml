@@ -1,0 +1,14 @@
+# Site settings
+title: Kevin Chau
+email: hello@kevinchau.me
+description: "Kevin Chau | Growth at Divshot. Seattle native. Always learning."
+baseurl: /
+url: http://kevinchau.me
+future: false
+permalink: /:categories/:title
+category_dir: /blog/categories
+custom_paginate: 6
+
+# Build settings
+markdown: kramdown
+permalink: pretty

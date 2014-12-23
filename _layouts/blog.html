@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+    <body>
+
+    {% include nav.html %}
+
+      <div id="blog" class="content {% if page.comments %}blog-post{% endif %}">
+        <div class="blog-content">
+          {{content}}
+        </div>
+      </div>
+
+    {% include footer.html %}
+
+    </body>
+</html>
