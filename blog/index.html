@@ -5,7 +5,6 @@ layout: default
   {% for post in site.posts %}
   <article class="post">
     <h2 class="title"><a href="{{ post.url }}/">{{ post.title }}</a></h2>
-    <span class="post-meta">{{ post.author }} in <a href="/blog/categories/{{ post.categories[1] }}/">{{ post.categories[1] | replace: '-', ' ' | titlecase }}</a> &nbsp;&nbsp;<b>/</b>&nbsp;&nbsp; {{ post.date | date: "%A, %B %e, %Y" }}</span>
   </article>
   {% endfor %}
 </div>
