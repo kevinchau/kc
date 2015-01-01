@@ -6,8 +6,8 @@ baseurl: /
 url: http://kevinchau.me
 future: false
 permalink: /:categories/:title
-category_dir: /blog/categories
-custom_paginate: 6
+custom_paginate: 5
+paginate_path: /blog/page:num
 
 # Build settings
 markdown: kramdown

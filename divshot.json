@@ -2,5 +2,20 @@
   "name": "kc",
   "root": "_site",
   "clean_urls": true,
-  "error_page": "error.html"
+  "error_page": "error.html",
+  "redirects": {
+    "/a-love-hate-relationship-with-seattle/": "/blog/a-love-hate-relationship-with-seattle/",
+    "/what-is-your-creative-outlet/": "/blog/what-is-your-creative-outlet",
+    "/what-makes-a-great-marketer/": "/blog/what-makes-a-great-marketer/",
+    "/why-programming-and-development-is-so-difficult/": "/blog/why-programming-and-development-is-so-difficult/",
+    "/becoming-those-around-you/": "/blog/becoming-those-around-you/",
+    "/principles-of-startup-support/": "/blog/principles-of-startup-support",
+    "/it-starts-with-the-product/": "/blog/it-starts-with-the-product",
+    "/four-words-that-will-destroy-you/": "/blog/four-words-that-will-destroy-you/",
+    "/my-frustration-with-the-auto-industry/": "/blog/my-frustration-with-the-auto-industry/",
+    "/the-growth-difficulties-of-passive-saas/": "/blog/the-growth-difficulties-of-passive-saas/",
+    "/learning-to-say-no/": "/blog/learning-to-say-no/",
+    "/taking-career-risks-in-your-twenties/": "/blog/taking-career-risks-in-your-twenties/"
+
+  }
 }
