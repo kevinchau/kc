@@ -3,7 +3,7 @@ layout: default
 ---
 <div class="entries">
   {% for post in paginator.posts %}
-  <div class=row>
+  <div class="row no-margin">
     <article class="post">
       <h1 class="title"><a href="{{ post.url }}">{{ post.title }}</a></h1>
       <span class="post-meta">&nbsp; {{ post.date | date: "%A, %B %e, %Y" }}</span>
