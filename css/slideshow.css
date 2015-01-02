@@ -1,5 +1,5 @@
 html {
-  background-color: black;
+  background-color: #303030;
 }
 
 .cb-slideshow {
@@ -59,10 +59,10 @@ html {
   line-height: 200px;
 }
 .cb-slideshow li:nth-child(1) span {
-  background-image: url(https://gp1.wac.edgecastcdn.net/806614/photos/photos.500px.net/79399981/5ca6580af89c57b0caceebdcb781ceea0e93029f/2048.jpg)
+  background-image: url(../images/site/nyc.jpg)
 }
 .cb-slideshow li:nth-child(2) span {
-  background-image: url(https://gp1.wac.edgecastcdn.net/806614/photos/photos.500px.net/72956959/619ebf31881a8801fd82debb632546984195f71b/2048.jpg);
+  background-image: url(../images/site/in-the-light.jpg);
   -webkit-animation-delay: 6s;
   -moz-animation-delay: 6s;
   -o-animation-delay: 6s;
@@ -70,7 +70,7 @@ html {
   animation-delay: 6s;
 }
 .cb-slideshow li:nth-child(3) span {
-  background-image: url(https://gp1.wac.edgecastcdn.net/806614/photos/photos.500px.net/68937069/1e7671bd633f4299c5edaecaa7c9591337b509a6/2048.jpg);
+  background-image: url(../images/site/sing.jpg);
   -webkit-animation-delay: 12s;
   -moz-animation-delay: 12s;
   -o-animation-delay: 12s;
@@ -78,7 +78,7 @@ html {
   animation-delay: 12s;
 }
 .cb-slideshow li:nth-child(4) span {
-  background-image: url(https://ppcdn.500px.org/88010759/45630f7a9cfd55b82fcbfad33658a0875a2e0913/2048.jpg);
+  background-image: url(../images/site/headphones.jpg);
   -webkit-animation-delay: 18s;
   -moz-animation-delay: 18s;
   -o-animation-delay: 18s;
@@ -86,7 +86,7 @@ html {
   animation-delay: 18s;
 }
 .cb-slideshow li:nth-child(5) span {
-  background-image: url(https://ppcdn.500px.org/64718139/fcd14aa5aea99b3f0f4e0d32a669b4de68e3d23b/2048.jpg);
+  background-image: url(../images/site/mountains.jpg);
   -webkit-animation-delay: 24s;
   -moz-animation-delay: 24s;
   -o-animation-delay: 24s;
@@ -94,7 +94,7 @@ html {
   animation-delay: 24s;
 }
 .cb-slideshow li:nth-child(6) span {
-  background-image: url(https://ppcdn.500px.org/67132287/07e52efaade13ce3f00a989457d3c547a7b9a65b/2048.jpg);
+  background-image: url(../images/site/fixed.jpg);
   -webkit-animation-delay: 30s;
   -moz-animation-delay: 30s;
   -o-animation-delay: 30s;

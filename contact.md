@@ -4,6 +4,4 @@ title: Contact
 permalink: /contact/
 ---
 
-### I am Kevin Chau
-
-I am not developer
+### Email: [hello@kevinchau.me](mailto:hello@kevinchau.me)

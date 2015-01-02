@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-### I am Kevin Chau
+### Growth at Divshot. Seattle native. Always learning.
 
-I am not developer
+(This page under construction - seriously, i just used that. do you want a geocities under construction gif too?)

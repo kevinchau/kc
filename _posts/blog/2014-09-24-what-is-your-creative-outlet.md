@@ -6,13 +6,13 @@ categories: blog
 
 Something that's occured to me over the last few months has changed my general view on things. There's always been something looming in thought that I couldn't understand. It was that everyone has a creative side. Even if you don't consider yourself a 'creative'.
 
-[![DSCF0170.jpg](https://d23f6h5jpj26xu.cloudfront.net/wfcnqzdhec8tww_small.jpg)](http://img.svbtle.com/wfcnqzdhec8tww.jpg)
+![DSCF0170.jpg](https://d23f6h5jpj26xu.cloudfront.net/wfcnqzdhec8tww_small.jpg)
 
 In that time, I've rediscovered photography, and it's had a positive impact on my overall demeanor. I was first formally introduced to photography by a family member sometime during high school. But it would be safe to say that the curiosity has always been there growing up. I remember that my Grandma had a good friend who owned a camera shop in Seattle's Chinatown, which stood just a few doors down from where Jade Garden is now. It was quite a store - my Grandma would take me there frequently, and over time I would be introduced to film, Polaroid, and cameras with crazy bellows. I still have a manual light meter around somewhere that was given to me from my Grandma's friend - I still don't know how to use it.
 
 Anyway, I spent the last year or two absent from photography. I was too focused on trying to succeed. What's been suffering is my creative mind. I've been trying to find an outlet - I blogged a fair amount, tried designing things, tried knolling (fun, nonetheless), cooking, and spent a lot of time in deep thought. What was missing however, was an outlet. I've become proficient at analyzing things, looking at numbers, forecasting trends, and all that math stuff. But my 'creative' was suffocating. I had no outlet for it. What I didn't realize was that starving my creative side also held back the rest of me.
 
-[![Bars - Kodak E100VS.jpg](https://d23f6h5jpj26xu.cloudfront.net/kwdhxwfat4e6vw_small.jpg)](http://img.svbtle.com/kwdhxwfat4e6vw.jpg)
+![Bars - Kodak E100VS.jpg](https://d23f6h5jpj26xu.cloudfront.net/kwdhxwfat4e6vw_small.jpg)
 
 At some point over the past summer - something in me snapped. I don't remember exactly what happened, but inside my head I said *fuck it*. I splurged a chunk of money into acquiring some equipment that would allow me to best express my 'creative' (you don't need to, but this is beside the point). What a great decision. Every moment that I can spare - I'm able to spend it being creative in my own way. I'm able to create without being restricted, and it's a great feeling.
 
