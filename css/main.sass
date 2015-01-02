@@ -9,21 +9,24 @@
   -moz-transition: color .15s ease-in-out
   -webkit-transition: color .15s ease-in-out
 
-.nav li a
+.nav li a, .nav li a:visited
   color: white
+  text-decoration: none
 
-.nav>li>a:hover, .nav>li>a:focus, .nav .open>a, .nav .open>a:hover, .nav .open>a:focus
+.nav>li>a:hover, .nav>li>a:focus, .nav .open>a, .nav .open>a:visited, .nav .open>a:hover, .nav .open>a:focus
   background-color: rgba(255, 255, 255, 0.3)
+  text-decoration: none
   transition: background-color .25s ease-in-out
   -moz-transition: background-color .25s ease-in-out
   -webkit-transition: background-color .25s ease-in-out
 
 @media screen and (min-width: 770px)
-  .nav>li>a:hover, .nav>li>a:focus, .nav .open>a, .nav .open>a:hover, .nav .open>a:focus
+  .nav>li>a:hover, .nav>li>a:focus, .nav .open>a, .nav .open>a:visited, .nav .open>a:hover, .nav .open>a:focus
     padding-top: 5px
     padding-bottom: 5px
     margin-top: 10px
     border-radius: 20px
+    text-decoration: none
 
 
 .nav>li>a.active
@@ -81,9 +84,10 @@
   margin-top: 0px
   margin-bottom: 0px
 
-.paginator a
+.paginator a, .paginator a:visited
   border-bottom: 2px solid #e1e1e1
   color: #202020
+  text-decoration: none
   transition: color .15s ease-in-out
   -moz-transition: color .15s ease-in-out
   -webkit-transition: color .15s ease-in-out
@@ -137,11 +141,12 @@ h1
   font-weight: bold
   font-family: 'Raleway', sans-serif
 
-h1>a
+h1>a, h1>a:visited
   color: #000
   font-size: 40px
   font-weight: bold
   font-family: 'Raleway', sans-serif
+  text-decoration: none
 
 h1>a:hover
   color: #3882F8
@@ -155,9 +160,10 @@ h3
   margin-left: -15px
   margin-right: -15px
 
-.post a, .page a
+.post a, .page a, .post a:visited .page a:visited
   border-bottom: 2px solid #e1e1e1
   color: #202020
+  text-decoration: none
   transition: color .15s ease-in-out
   -moz-transition: color .15s ease-in-out
   -webkit-transition: color .15s ease-in-out
