@@ -59,7 +59,7 @@ html {
   line-height: 200px;
 }
 .cb-slideshow li:nth-child(1) span {
-  background-image: url(../images/site/nyc.jpg)
+  background-image: url(../images/site/sing.jpg)
 }
 .cb-slideshow li:nth-child(2) span {
   background-image: url(../images/site/in-the-light.jpg);
@@ -70,7 +70,7 @@ html {
   animation-delay: 6s;
 }
 .cb-slideshow li:nth-child(3) span {
-  background-image: url(../images/site/sing.jpg);
+  background-image: url(../images/site/headphones.jpg);
   -webkit-animation-delay: 12s;
   -moz-animation-delay: 12s;
   -o-animation-delay: 12s;
@@ -78,7 +78,7 @@ html {
   animation-delay: 12s;
 }
 .cb-slideshow li:nth-child(4) span {
-  background-image: url(../images/site/headphones.jpg);
+  background-image: url(../images/site/headphones.nyc);
   -webkit-animation-delay: 18s;
   -moz-animation-delay: 18s;
   -o-animation-delay: 18s;

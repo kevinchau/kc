@@ -3,7 +3,7 @@ title: Kevin Chau
 email: hello@kevinchau.me
 description: "Kevin Chau | Growth at Divshot. Seattle native. Always learning."
 baseurl: /
-url: http://kevinchau.me
+url: https://kevinchau.me
 future: false
 permalink: /:categories/:title
 custom_paginate: 5
