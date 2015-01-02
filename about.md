@@ -1,9 +1,9 @@
 ---
-layout: default
+layout: page
 title: About
 permalink: /about/
 ---
 
 ### Growth at Divshot. Seattle native. Always learning.
 
-(This page under construction - seriously, i just used that. do you want a geocities under construction gif too?)
+I haven't written my bio yet - if you're genuinely curious for more info that you would normally find here, [email me](mailto:hello@kevinchau.me).
