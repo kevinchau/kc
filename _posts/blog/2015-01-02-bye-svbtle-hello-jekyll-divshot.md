@@ -16,6 +16,8 @@ It's a limiting platform that's only slightly better than Medium - which I deepl
 
 Naturally - I work at [Divshot](https://divshot.com), so it was wise for me to dogfood. Not to mention I don't have to pay for the awesome services that we make (humble brag). But the key features that I'm using Divshot and not Wordpress/Ghost is because I wanted a CDN, and a staging environment.
 
+However, the most important thing was having the ability to easily set redirects. I wanted my old links 301'd to the new site and it was really easy doing that using [Superstatic](http://superstatic.org), which is what Divshot is built on.
+
 I spent the last few months designing and coding this site off and on in my free time. It uses Bootstrap with very minimal JQuery. It's fast, responsive, and most importantly - we already use Jekyll at Divshot. It was something I could expand my knowledge on and practice web design in my free time.
 
 ![Screenshot](../images/blog/site.png)
