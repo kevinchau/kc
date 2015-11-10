@@ -4,6 +4,9 @@ title: About
 permalink: /about/
 ---
 
-### Growth at Divshot. Seattle native. Always learning.
 
-I haven't written my bio yet - if you're genuinely curious for more info that you would normally find here, [email me](mailto:hello@kevinchau.me).
+Usually what goes here is a bunch of stuff that I'd write about myself - but in reality I'd rather show you or tell you over a cup of coffee.
+
+Though, as a quick summary - I travel the world, camera in hand, meeting interesting people along the way.
+
+Interested in knowing more? [Email me](mailto:hello@kevinchau.me).
