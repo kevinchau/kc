@@ -6,7 +6,7 @@ categories: blog
 
 Recently I did a photoshoot in Hong Kong with a few awesome people. Everything turned out in a favorable way, but it wasn't without some scare.
 
-![Petra in PMQ Stariway](../images/site/petra-stairs.png)
+![Petra in PMQ Stariway](../images/site/petra-stairs.jpg)
 
 I had looked outside of my window in HK, and saw sun. It wasn't until I got to the location that I remembered that there were tall buildings everywhere. Leaving my Profoto B2s back at home base, I only grabbed a reflector, and was at least an hour away round trip.
 
@@ -14,7 +14,7 @@ By the time I had the first outfit shot at two locations, the sun disappeared. I
 
 It was lit with only compact fluorescent bulbs in fixtures, one at mid level, and the other at the top level. Here's what it looked out straight out of camera.
 
-![Petra SOOC](../images/blog/petra-sooc.png)
+![Petra SOOC](../images/blog/petra-sooc.jpg)
 
 I keep my camera to daylight balance and shoot in RAW. It's easy to see the green tint and color cast from the compact fluorescents. The look I wanted to pull from this was the hard, cold, and edgy, urban feel.
 

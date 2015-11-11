@@ -3,7 +3,7 @@ title: Kevin Chau
 email: hello@kevinchau.me
 description: "Kevin Chau | Commercial Photographer Based in Seattle"
 baseurl: /
-url: https://kevinchau.me
+url: http://kevinchau.me
 future: false
 permalink: /:categories/:title
 custom_paginate: 5
