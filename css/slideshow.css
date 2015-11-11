@@ -72,7 +72,7 @@ html {
   animation-delay: 6s;
 }
 .cb-slideshow li:nth-child(3) span {
-  background-image: url(../images/site/sing.jpg);
+  background-image: url(../images/site/petra-stairs.jpg);
   -webkit-animation-delay: 12s;
   -moz-animation-delay: 12s;
   -o-animation-delay: 12s;
@@ -80,7 +80,7 @@ html {
   animation-delay: 12s;
 }
 .cb-slideshow li:nth-child(4) span {
-  background-image: url(../images/site/headphones.jpg);
+  background-image: url(../images/site/petra-wood.jpg);
   -webkit-animation-delay: 18s;
   -moz-animation-delay: 18s;
   -o-animation-delay: 18s;
@@ -88,7 +88,7 @@ html {
   animation-delay: 18s;
 }
 .cb-slideshow li:nth-child(5) span {
-  background-image: url(../images/site/tokyo.jpg);
+  background-image: url(../images/site/sing.jpg);
   -webkit-animation-delay: 24s;
   -moz-animation-delay: 24s;
   -o-animation-delay: 24s;
@@ -96,7 +96,7 @@ html {
   animation-delay: 24s;
 }
 .cb-slideshow li:nth-child(6) span {
-  background-image: url(../images/site/david.jpg);
+  background-image: url(../images/site/headphones.jpg);
   -webkit-animation-delay: 30s;
   -moz-animation-delay: 30s;
   -o-animation-delay: 30s;
@@ -112,7 +112,7 @@ html {
   animation-delay: 36s;
 }
 .cb-slideshow li:nth-child(8) span {
-  background-image: url(../images/site/nyc2.jpg);
+  background-image: url(../images/site/tokyo.jpg);
   -webkit-animation-delay: 42s;
   -moz-animation-delay: 42s;
   -o-animation-delay: 42s;
